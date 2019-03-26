@@ -60,7 +60,6 @@ export default class Details extends Component {
             </div>
             {/* end of product infor */}
             </div>
-           
             </React.Fragment>
           )
         }}

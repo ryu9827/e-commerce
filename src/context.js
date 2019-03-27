@@ -36,7 +36,7 @@ class ProductProvider extends Component {
         };
       },
       () => {
-        console.log(this.state.products);
+        // console.log(this.state.products);
       }
     );
   };

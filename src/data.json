@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "title": "Google Pixel - Black",
-    "img": "e-commerce/img/product-1.png ",
+    "title": "Google Pixel3 - White",
+    "img": "https://i.imgur.com/JdTXPbm.png",
     "price": 10,
     "company": "GOOGLE",
     "info": "GOOGLE Supposedly there are over one million words in the English Language. We trimmed some fat to take away really odd words and determiners. Then we grabbed the most popular words and built this word randomizer. Just keep clicking generate—chances are you won't find a repeat!",
@@ -12,11 +12,11 @@
   },
   {
     "id": 2,
-    "title": "Samsung Note 7 - White",
-    "img": "e-commerce/img/product-2.png",
+    "title": "HTC U12 - Black",
+    "img": "https://i.imgur.com/u8BNnt1.png",
     "price": 15,
-    "company": "SAMSUNG",
-    "info": "SAMSUNG Supposedly there are over one million words in the English Language. We trimmed some fat to take away really odd words and determiners. Then we grabbed the most popular words and built this word randomizer. Just keep clicking generate—chances are you won't find a repeat!",
+    "company": "HTC",
+    "info": "HTC Supposedly there are over one million words in the English Language. We trimmed some fat to take away really odd words and determiners. Then we grabbed the most popular words and built this word randomizer. Just keep clicking generate—chances are you won't find a repeat!",
     "inCart": false,
     "count": 2,
     "total": 3
@@ -24,7 +24,7 @@
   {
     "id": 3,
     "title": "Xiaomi Mix 3 - Black",
-    "img": "e-commerce/img/product-3.png",
+    "img": "https://i.imgur.com/qd4dgeE.jpg",
     "price": 12,
     "company": "Xiaomi",
     "info": "Xiaomi Supposedly there are over one million words in the English Language. We trimmed some fat to take away really odd words and determiners. Then we grabbed the most popular words and built this word randomizer. Just keep clicking generate—chances are you won't find a repeat!",
@@ -34,8 +34,8 @@
   },
   {
     "id": 4,
-    "title": "Google Pixel - Black",
-    "img": "e-commerce/img/product-1.png",
+    "title": "Huawei P20 - Black",
+    "img": "https://i.imgur.com/pcMKBYm.jpg",
     "price": 10,
     "company": "GOOGLE",
     "info": "GOOGLE Supposedly there are over one million words in the English Language. We trimmed some fat to take away really odd words and determiners. Then we grabbed the most popular words and built this word randomizer. Just keep clicking generate—chances are you won't find a repeat!",
@@ -46,7 +46,7 @@
   {
     "id": 5,
     "title": "Samsung Note 7 - White",
-    "img": "e-commerce/img/product-2.png",
+    "img": "https://i.imgur.com/fP4SsY3.png",
     "price": 15,
     "company": "SAMSUNG",
     "info": "SAMSUNG Supposedly there are over one million words in the English Language. We trimmed some fat to take away really odd words and determiners. Then we grabbed the most popular words and built this word randomizer. Just keep clicking generate—chances are you won't find a repeat!",
@@ -56,8 +56,8 @@
   },
   {
     "id": 6,
-    "title": "Xiaomi Mix 3 - Black",
-    "img": "e-commerce/img/product-3.png",
+    "title": "iPhone XR - Red",
+    "img": "https://i.imgur.com/hzhyPlW.jpg?2",
     "price": 12,
     "company": "Xiaomi",
     "info": "Xiaomi Supposedly there are over one million words in the English Language. We trimmed some fat to take away really odd words and determiners. Then we grabbed the most popular words and built this word randomizer. Just keep clicking generate—chances are you won't find a repeat!",

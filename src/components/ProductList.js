@@ -3,6 +3,8 @@ import Product from "./Product";
 import Title from "./Title";
 import storeProducts from "../data.json";
 import { ProductConsumer } from "../context";
+import { Link } from "react-router-dom";
+import AboutOwner from "./AboutOwner";
 
 export default class ProductList extends Component {
   state = {
@@ -24,6 +26,9 @@ export default class ProductList extends Component {
                 }}
               </ProductConsumer>
             </div>
+            <Link to="/aboutowner" className="nav-link" Component={AboutOwner}>
+              <p className="text-center">About the owner</p>
+            </Link>
           </div>
         </div>
       </React.Fragment>

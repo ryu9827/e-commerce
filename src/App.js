@@ -8,6 +8,7 @@ import Default from "./components/Default";
 import { Switch, Route } from "react-router-dom";
 import Details from "./components/Details";
 import Modal from "./components/Modal";
+import AboutOwner from "./components/AboutOwner";
 
 class App extends Component {
   render() {
@@ -19,6 +20,7 @@ class App extends Component {
           <Route path="/e-commerce" component={ProductList} />
           <Route path="/details" component={Details} />
           <Route path="/cart" component={Cart} />
+          <Route path="/aboutowner" component={AboutOwner} />
           <Route component={Default} />
         </Switch>
         <Modal />

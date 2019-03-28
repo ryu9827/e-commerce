@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/e-commerce/static/js/main.d1fd7990.chunk.js"
   },
   {
-    "revision": "b8762e313b5a0dc5f939",
-    "url": "/e-commerce/static/js/1.b8762e31.chunk.js"
+    "revision": "607c7edb04d074bd72b4",
+    "url": "/e-commerce/static/js/1.607c7edb.chunk.js"
   },
   {
     "revision": "d1fd7990829f0d948fbd",
     "url": "/e-commerce/static/css/main.02a2df70.chunk.css"
   },
   {
-    "revision": "b8762e313b5a0dc5f939",
+    "revision": "607c7edb04d074bd72b4",
     "url": "/e-commerce/static/css/1.d540f226.chunk.css"
   },
   {
-    "revision": "4ff949e46068bc6e4c9382d6348ad797",
+    "revision": "54af7a466c123092ea7ddb4561772192",
     "url": "/e-commerce/index.html"
   }
 ];

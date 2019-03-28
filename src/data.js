@@ -83,5 +83,6 @@ export const detailProduct = {
     "Xiaomi Supposedly there are over one million words in the English Language. We trimmed some fat to take away really odd words and determiners. Then we grabbed the most popular words and built this word randomizer. Just keep clicking generate—chances are you won't find a repeat!",
   inCart: false,
   count: 5,
-  total: 9
+  total: 9,
+  key: "value"
 };
